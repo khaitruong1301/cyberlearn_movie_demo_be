@@ -4984,11 +4984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
+      "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
       "projectName": "BookingTicketRestAPICoreDapper_Data",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
+      "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\obj\\",
+      "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5008,8 +5008,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj"
+            "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
+              "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj"
             }
           }
         }

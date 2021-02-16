@@ -13299,11 +13299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
+      "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
       "projectName": "BookingTicketRestAPICoreDapper",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
+      "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\obj\\",
+      "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13323,8 +13323,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj"
+            "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
+              "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj"
             }
           }
         }

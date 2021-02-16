@@ -30,7 +30,7 @@ namespace BookingTicketRestAPICoreDapper
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            string dbconfig = "Server=DESKTOP-JNKAS6I;Database=BookingTicket;User Id=sa;Password=123";
+            string dbconfig = "Server=103.97.125.205,1433;Database=BookingTicket;User Id=khaicybersoft;Password=khaicybersoft321@";
 
             //DI Respository
             services.AddTransient<IQuanLyPhimRespository, QuanLyPhimRespository>(f => new QuanLyPhimRespository(dbconfig));

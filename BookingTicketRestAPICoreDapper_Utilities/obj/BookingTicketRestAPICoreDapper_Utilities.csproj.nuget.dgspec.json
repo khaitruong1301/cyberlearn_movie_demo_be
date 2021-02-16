@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {}
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
+        "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
         "projectName": "BookingTicketRestAPICoreDapper_Utilities",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
+        "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\obj\\",
+        "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

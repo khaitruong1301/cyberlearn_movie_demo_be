@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj": {}
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj": {
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
+        "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
         "projectName": "BookingTicketRestAPICoreDapper",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
+        "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\BookingTicketRestAPICoreDapper.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper\\obj\\",
+        "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj"
+              "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
+                "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
+        "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
         "projectName": "BookingTicketRestAPICoreDapper_Data",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
+        "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\BookingTicketRestAPICoreDapper_Data.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Data\\obj\\",
+        "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -126,8 +126,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj"
+              "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
+                "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
+    "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
+        "projectUniqueName": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
         "projectName": "BookingTicketRestAPICoreDapper_Utilities",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
+        "projectPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\obj\\",
+        "outputPath": "D:\\cybersoft\\bookingTicket_BE\\BookingTicketRestAPICoreDapper_Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
