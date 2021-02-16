@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqjsBhqufGImjY1pZPGIHhI7nkW5lUcKekRq9WGbMtQcKGTD2z8XCJ+5FMQh0Z9UOOW0/zPK1jbhRaMrP997xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\bookingTicket_BE_Latest-master\\bookingTicket_BE_Latest-master\\BookingTicketRestAPICoreDapper_Utilities\\BookingTicketRestAPICoreDapper_Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
